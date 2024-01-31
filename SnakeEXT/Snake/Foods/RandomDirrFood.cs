@@ -1,0 +1,18 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Media;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Snake
+{
+    public class RandomDirrFood : Food
+    {
+        public RandomDirrFood(int x, int y) : base(x, y, 1,1, Brushes.Red,true)
+        {
+           
+        }
+    }
+
+}

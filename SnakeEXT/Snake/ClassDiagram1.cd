@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Snake.DietFood" Collapsed="true">
+    <Position X="3" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Foods\DietFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Food" Collapsed="true">
+    <Position X="3" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAggAAAAAAAABAAAAAAAAAAAAAgAAAYAA=</HashCode>
+      <FileName>Foods\Food.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.StandardFood" Collapsed="true">
+    <Position X="5.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Foods\StandardFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.ValuableFood" Collapsed="true">
+    <Position X="0.75" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Foods\ValuableFood.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Snake" Collapsed="true">
+    <Position X="7.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAgCAAASIAAAkAAACAAAAqAAgIAAAAQCAMgQRECIE=</HashCode>
+      <FileName>GUI\Snake.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.SnakeEntity" Collapsed="true">
+    <Position X="9.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAAAUgAACAAAAABAAAAQAAQAAAAAAoAAIEAA=</HashCode>
+      <FileName>TheSnake\SnakeEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.SnakePiece" Collapsed="true">
+    <Position X="11.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAYAA=</HashCode>
+      <FileName>TheSnake\SnakePiece.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Engine" Collapsed="true">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAQAgAAAAAAAAxAAwBAAAABAAAAAAAACAAAAAAAAAAI=</HashCode>
+      <FileName>Engine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.Program" Collapsed="true">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Snake.ScoreEventArgs" Collapsed="true">
+    <Position X="11.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAACAA=</HashCode>
+      <FileName>ScoreEventArgs.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="Snake.Direction" Collapsed="true">
+    <Position X="7.75" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAACACAAAAAAAI=</HashCode>
+      <FileName>Enums\Enums.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
